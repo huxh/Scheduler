@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Wed Jun 21 11:31:37 CST 2017
+2.base=/home/sean/Code/Android/Scheduler1/app/build/intermediates/res/resources-debug.ap_
+5.file=/home/sean/Code/Android/Scheduler1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_08b2fff2aeb1218ad2641eeec5cbc925d28ef845/classes.dex
+5.set=DEX
+3.base=/home/sean/Code/Android/Scheduler1/app/build/intermediates/res/resources-debug.ap_
+6.file=/home/sean/Code/Android/Scheduler1/app/build/intermediates/res/resources-debug.ap_/res/menu/main.xml
+2.set=ANDROID_RESOURCE
+4.base=/home/sean/Code/Android/Scheduler1/app/build/intermediates/res/resources-debug.ap_
+count=7
+0.file=/home/sean/Code/Android/Scheduler1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4cc48cff01702e02aba282bc34f637da929d4d8f/classes.dex
+5.base=/home/sean/Code/Android/Scheduler1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_08b2fff2aeb1218ad2641eeec5cbc925d28ef845
+4.set=ANDROID_RESOURCE
+6.base=/home/sean/Code/Android/Scheduler1/app/build/intermediates/res/resources-debug.ap_
+1.file=/home/sean/Code/Android/Scheduler1/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+1.set=ANDROID_RESOURCE
+2.file=/home/sean/Code/Android/Scheduler1/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/ic_launcher.png
+6.set=ANDROID_RESOURCE
+0.base=/home/sean/Code/Android/Scheduler1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4cc48cff01702e02aba282bc34f637da929d4d8f
+3.file=/home/sean/Code/Android/Scheduler1/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+3.set=ANDROID_RESOURCE
+1.base=/home/sean/Code/Android/Scheduler1/app/build/intermediates/res/resources-debug.ap_
+4.file=/home/sean/Code/Android/Scheduler1/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+0.set=DEX

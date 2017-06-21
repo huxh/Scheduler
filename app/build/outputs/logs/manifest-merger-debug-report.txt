@@ -1,0 +1,110 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml:17:1-52:12
+	package
+		ADDED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml:18:5-44
+		INJECTED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml:20:5-30
+		INJECTED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml:19:5-28
+		INJECTED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml:17:11-69
+uses-sdk
+ADDED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml:22:5-74
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/sean/.android/build-cache/c71abe969cce7ebd37a9ae2c0bb0dfd70a36809e/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/sean/.android/build-cache/bfc46f7dd6350866798deda6be4c3ba1a1321c09/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/sean/.android/build-cache/0d6057ed1a04bf496089ffdae8744518b9a72fc0/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/sean/.android/build-cache/1a08cceba7277d0128fd79d6ad84ff9a95e3ed07/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/sean/.android/build-cache/af81d0a8574540a19ff9086f632c833c2c069b5b/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/sean/.android/build-cache/dee8430b2e8910534e28d2abf80410792b430dda/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.0.0-alpha1] /home/sean/.android/build-cache/c71abe969cce7ebd37a9ae2c0bb0dfd70a36809e/output/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml:22:42-71
+		INJECTED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml:22:15-41
+		INJECTED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml:23:5-84
+	android:name
+		ADDED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml:23:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml:24:5-97
+	android:name
+		ADDED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml:24:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml:25:22-64
+application
+ADDED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml:27:5-50:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/sean/.android/build-cache/c71abe969cce7ebd37a9ae2c0bb0dfd70a36809e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/sean/.android/build-cache/bfc46f7dd6350866798deda6be4c3ba1a1321c09/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/sean/.android/build-cache/0d6057ed1a04bf496089ffdae8744518b9a72fc0/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/sean/.android/build-cache/1a08cceba7277d0128fd79d6ad84ff9a95e3ed07/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/sean/.android/build-cache/af81d0a8574540a19ff9086f632c833c2c069b5b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/sean/.android/build-cache/dee8430b2e8910534e28d2abf80410792b430dda/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml:27:18-50
+	android:icon
+		ADDED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml:28:9-45
+	android:theme
+		ADDED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml:29:9-44
+activity#com.example.android.scheduler.MainActivity
+ADDED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml:31:9-39:20
+	android:label
+		ADDED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml:32:13-45
+	android:uiOptions
+		ADDED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml:33:13-57
+	android:name
+		ADDED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml:31:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml:37:27-74
+receiver#com.example.android.scheduler.SampleAlarmReceiver
+ADDED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml:41:9-66
+	android:name
+		ADDED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml:41:19-54
+receiver#com.example.android.scheduler.SampleBootReceiver
+ADDED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml:43:9-48:20
+	android:enabled
+		ADDED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml:44:17-40
+	android:name
+		ADDED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml:43:19-53
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml:45:13-47:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml:46:13-82
+	android:name
+		ADDED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml:46:21-72
+service#com.example.android.scheduler.SampleSchedulingService
+ADDED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml:49:9-60
+	android:name
+		ADDED from /home/sean/Code/Android/Scheduler1/app/src/main/AndroidManifest.xml:49:18-57
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.0.0-alpha1] /home/sean/.android/build-cache/c71abe969cce7ebd37a9ae2c0bb0dfd70a36809e/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/sean/.android/build-cache/bfc46f7dd6350866798deda6be4c3ba1a1321c09/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/sean/.android/build-cache/0d6057ed1a04bf496089ffdae8744518b9a72fc0/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/sean/.android/build-cache/1a08cceba7277d0128fd79d6ad84ff9a95e3ed07/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/sean/.android/build-cache/af81d0a8574540a19ff9086f632c833c2c069b5b/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/sean/.android/build-cache/dee8430b2e8910534e28d2abf80410792b430dda/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:support-v4:26.0.0-alpha1] /home/sean/.android/build-cache/c71abe969cce7ebd37a9ae2c0bb0dfd70a36809e/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:support-v4:26.0.0-alpha1] /home/sean/.android/build-cache/c71abe969cce7ebd37a9ae2c0bb0dfd70a36809e/output/AndroidManifest.xml:26:9-47

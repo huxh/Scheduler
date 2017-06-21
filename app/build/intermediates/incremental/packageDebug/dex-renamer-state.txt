@@ -1,0 +1,7 @@
+#Wed Jun 21 11:31:37 CST 2017
+base.0=/home/sean/Code/Android/Scheduler1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_08b2fff2aeb1218ad2641eeec5cbc925d28ef845
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/sean/Code/Android/Scheduler1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4cc48cff01702e02aba282bc34f637da929d4d8f/classes.dex
+base.1=/home/sean/Code/Android/Scheduler1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4cc48cff01702e02aba282bc34f637da929d4d8f
+file.0=/home/sean/Code/Android/Scheduler1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_08b2fff2aeb1218ad2641eeec5cbc925d28ef845/classes.dex

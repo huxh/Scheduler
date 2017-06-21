@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/sean/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/sean/Code/Android/Scheduler1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_85070b8ec2e64ea0f83fc9363a9e8c012c3a3fb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sean/.android/build-cache/bfc46f7dd6350866798deda6be4c3ba1a1321c09/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/sean/Code/Android/Scheduler1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e9300021df7b12d5ebadf0a86540c105099cd3e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sean/.android/build-cache/1a08cceba7277d0128fd79d6ad84ff9a95e3ed07/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/sean/Code/Android/Scheduler1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c592b2de532c73d16c611f1ac4a4ade6927389a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sean/.android/build-cache/c71abe969cce7ebd37a9ae2c0bb0dfd70a36809e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/sean/Code/Android/Scheduler1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a7ee8bce2b5899afa5aee9584876c5eb8840b993/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sean/Code/Android/Scheduler1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1c596b4281b7955140998ab8e1c686eef759ea86">
+        <dex dex="/home/sean/Code/Android/Scheduler1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_08b2fff2aeb1218ad2641eeec5cbc925d28ef845/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sean/Code/Android/Scheduler1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/sean/Code/Android/Scheduler1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4cc48cff01702e02aba282bc34f637da929d4d8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sean/.android/build-cache/af81d0a8574540a19ff9086f632c833c2c069b5b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/sean/Code/Android/Scheduler1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_42b5fae4dd614a5ddb13f9ed765cb04eba358d90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sean/.android/build-cache/0d6057ed1a04bf496089ffdae8744518b9a72fc0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/sean/Code/Android/Scheduler1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_039f0f3a79eb3fffc8b3aff535555d9faa8ef7f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sean/.android/build-cache/dee8430b2e8910534e28d2abf80410792b430dda/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/sean/Code/Android/Scheduler1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_625a7ccceeb232937139c544bb53a9354ccf61e1/classes.dex" />
+    </item>
+
+</items>
